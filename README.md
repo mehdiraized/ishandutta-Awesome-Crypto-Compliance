@@ -1,4 +1,4 @@
-# Awesome Crypto Compliance ???
+# Awesome Crypto Compliance 🛡️
 <div align="center">
 <a href="https://github.com/ishandutta2007/Awesome-Awesome-Awesome"><img src="https://img.shields.io/badge/Awesome-%E2%9C%94-blueviolet?style=flat-square&logo=github" alt="Awesome"/></a><a href="https://discord.gg/jc4xtF58Ve"><img src="https://img.shields.io/badge/Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white" alt="Discord" /></a>
 <a href="https://github.com/ishandutta2007"><img alt="GitHub followers" src="https://img.shields.io/github/followers/ishandutta2007?label=Follow" /></a>
@@ -6,7 +6,7 @@
 
 ![Banner](assets/banner.svg)
 
-## ? Top Crypto Compliance Tools Ecosystem
+## 🏆 Top Crypto Compliance Tools Ecosystem
 
 **Curated List of SaaS Products & Open-Source GitHub Projects**
 
@@ -22,7 +22,7 @@ This repository tracks notable **SaaS platforms** and **open-source projects** f
 
 Contributions welcome! Open a PR to add/update entries. Keep descriptions factual and link to official sites / GitHub repos.
 
-## ?? Table of Contents
+## 📋 Table of Contents
 
 - [SaaS/Hosted Platforms](#saas-hosted-platforms)
 - [Open-Source GitHub Projects](#open-source-github-projects)
@@ -30,7 +30,7 @@ Contributions welcome! Open a PR to add/update entries. Keep descriptions factua
 - [Disclaimer](#disclaimer)
 
 
-## ?? SaaS/Hosted Platforms
+## 🏢 SaaS/Hosted Platforms
 
 | Product | Description | Pricing (Starting Tier) | Free Tier / Trial Limits | Company Size / Valuation |
 | :--- | :--- | :--- | :--- | :--- |
@@ -49,7 +49,7 @@ Contributions welcome! Open a PR to add/update entries. Keep descriptions factua
 | **[Scorechain](https://www.scorechain.com/)** | Blockchain analytics and compliance provider. | ~$500/mo estimated minimum | Free Sanctions API (100 req/hr) & 5 free AI reports | ~$15M Valuation |
 
 
-## ?? Open-Source GitHub Projects
+## 💻 Open-Source GitHub Projects
 
 - **[OpenSanctions](https://github.com/opensanctions/opensanctions)** [![Stars](https://img.shields.io/github/stars/opensanctions/opensanctions?style=social&color=white)](https://github.com/opensanctions/opensanctions/stargazers)  
   Open database of international sanctions, PEPs, and persons of interest with a powerful matching API.
@@ -75,16 +75,16 @@ Contributions welcome! Open a PR to add/update entries. Keep descriptions factua
 - **[Jube](https://github.com/jube-home/aml-fraud-transaction-monitoring)** [![Stars](https://img.shields.io/github/stars/jube-home/aml-fraud-transaction-monitoring?style=social&color=white)](https://github.com/jube-home/aml-fraud-transaction-monitoring/stargazers)  
   Open-source (AGPLv3) AML and fraud detection platform combining rule-based logic, machine learning risk scoring, real-time monitoring, and case management.
 
-- **Wallet Attribution Datasets** (e.g., community eth-labels, cex-list, wallet-attribution repos)  
+- **Wallet Attribution Datasets** [![Community](https://img.shields.io/badge/Community-datasets-blue?style=social)](#)  
   Aggregated open datasets of labeled addresses (exchanges, mixers, scams, bridges) useful for basic risk enrichment.
 
-- **Travel Rule Open Standards**  
+- **Travel Rule Open Standards** [![Standards](https://img.shields.io/badge/Open-Standards-blue?style=social)](#)  
   **TRP (Travel Rule Protocol)** and related open messaging standards maintained by industry associations for decentralized or low-cost VASP-to-VASP data exchange.
 
-- **zk-Travel Rule experiments** and privacy-preserving compliance prototypes  
+- **zk-Travel Rule experiments** [![Experimental](https://img.shields.io/badge/Status-Experimental-blue?style=social)](#)  
   Emerging open projects exploring zero-knowledge proofs for Travel Rule compliance without sharing raw PII.
 
-- **FinCrimeRadar / TrustBlocks-style tools**  
+- **FinCrimeRadar / TrustBlocks-style tools** [![Tools](https://img.shields.io/badge/Open-Tools-blue?style=social)](#)  
   Free or open screening interfaces and educational platforms powered by OpenSanctions and public data for sanctions, PEP, and basic crypto address checks.
 
 ### Additional Strong Open-Source Options
@@ -98,7 +98,7 @@ Contributions welcome! Open a PR to add/update entries. Keep descriptions factua
 **Frameworks for building custom systems**: Combine **OpenSanctions + yente** for name/address screening, **AMLClaw** or **Marble/Osprey** for transaction monitoring and case workflows, public address attribution datasets for enrichment, and open Travel Rule protocols (TRP) for messaging - creating a transparent, self-hosted compliance layer that can be augmented with commercial analytics where deeper entity intelligence is required.
 
 
-## ?? How to Contribute
+## 🤝 How to Contribute
 
 1. Fork the repo.
 
@@ -111,7 +111,7 @@ Contributions welcome! Open a PR to add/update entries. Keep descriptions factua
 Star the repo if you find it useful!
 
 
-## ?? Disclaimer
+## ⚠️ Disclaimer
 
 - This is a **community-curated** list - not exhaustive and not an endorsement.
 
@@ -126,5 +126,7 @@ Star the repo if you find it useful!
 Let's make sanctions screening, transaction monitoring, and Travel Rule compliance more open, auditable, and accessible.
 
 
-## ?? Star History
+## ⭐ Star History
 [![Star History Chart](https://star-history.dera.page/svg?repos=ishandutta2007/Awesome-Crypto-Compliance&type=date&legend=top-left)](https://star-history.dera.page/#ishandutta2007/Awesome-Crypto-Compliance&type=date&legend=top-left)
+
+

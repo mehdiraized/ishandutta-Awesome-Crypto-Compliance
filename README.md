@@ -40,49 +40,21 @@ Contributions welcome! Open a PR to add/update entries. Keep descriptions factua
 
 ## SaaS/Hosted Platforms
 
-- **[Chainalysis](https://www.chainalysis.com/)**  
-
-  Leading blockchain analytics and compliance platform offering KYT monitoring, investigations (Reactor), entity labeling, and risk scoring used widely by exchanges, governments, and financial institutions.
-
-- **[TRM Labs](https://www.trmlabs.com/)**  
-
-  Risk intelligence and compliance platform with strong real-time transaction monitoring, wallet screening, and coverage across many chains for VASPs and institutions.
-
-- **[Elliptic](https://www.elliptic.co/)**  
-
-  Blockchain analytics and compliance suite focused on transaction screening, investigations, and risk management with broad asset and protocol coverage.
-
-- **[Notabene](https://notabene.id/)**  
-
-  Specialized Travel Rule compliance platform enabling VASPs to exchange required originator/beneficiary information across protocols and jurisdictions.
-
-- **[Sumsub](https://sumsub.com/)**  
-
-  Identity verification and KYC/AML platform widely used in crypto for document verification, biometric checks, and ongoing monitoring.
-
-- **[Sardine](https://www.sardine.ai/)**  
-
-  Fraud and compliance platform combining device intelligence, behavioral signals, and crypto-specific risk for onboarding and transaction monitoring.
-
-- **[Persona](https://withpersona.com/)**  
-
-  Flexible identity verification and compliance orchestration platform used for KYC, KYB, and ongoing due diligence in fintech and crypto.
-
-- **[ComplyAdvantage](https://complyadvantage.com/)**  
-
-  AML screening and monitoring platform covering sanctions, PEPs, adverse media, and transaction monitoring with crypto relevance.
-
-- **[Unit21](https://unit21.ai/)**  
-
-  No-code / low-code transaction monitoring and case management platform adaptable to crypto and traditional financial crime use cases.
-
-- **[Hawk AI](https://hawk.ai/)**  
-
-  AI-powered transaction monitoring and AML platform used by banks and fintechs, with growing crypto applicability.
-
-- **[Crystal (Bitfury)](https://crystalblockchain.com/)** / **[Scorechain](https://www.scorechain.com/)** / **[Merkle Science](https://www.merklescience.com/)**  
-
-  Additional established blockchain analytics and compliance providers frequently evaluated alongside the leaders above.
+| Product | Description | Pricing (Starting Tier) | Free Tier / Trial Limits |
+| :--- | :--- | :--- | :--- |
+| **[Chainalysis](https://www.chainalysis.com/)** | Leading blockchain analytics and compliance platform offering KYT monitoring, investigations, and risk scoring. | ~$50,000/year estimated minimum | Demo access only (no free trial) |
+| **[TRM Labs](https://www.trmlabs.com/)** | Risk intelligence and compliance platform with real-time transaction monitoring and wallet screening. | ~$40,000/year estimated minimum | Free for Law Enforcement only (TRM Deconflict) |
+| **[Elliptic](https://www.elliptic.co/)** | Blockchain analytics and compliance suite focused on transaction screening and risk management. | ~$40,000/year estimated minimum | Demo access only (no free trial) |
+| **[Notabene](https://notabene.id/)** | Specialized Travel Rule compliance platform for VASP data exchange. | Sunrise plan starts at $0/mo | Free forever up to $10,000 USD outgoing monthly |
+| **[Sumsub](https://sumsub.com/)** | Identity verification and KYC/AML platform used in crypto for document and biometric checks. | $149/mo minimum (includes checks) | 14-day free trial or 50 free verifications |
+| **[Sardine](https://www.sardine.ai/)** | Fraud and compliance platform combining device intelligence and crypto risk. | ~$30,000/year estimated minimum | Demo access only (no free trial) |
+| **[Persona](https://withpersona.com/)** | Identity verification and compliance orchestration platform for KYC/KYB. | Essential plan starts at $250/mo | Free forever up to 500 verifications/mo |
+| **[ComplyAdvantage](https://complyadvantage.com/)** | AML screening platform covering sanctions, PEPs, and transaction monitoring. | Starter plan begins at $99/mo | 12-month free access for eligible startups |
+| **[Unit21](https://unit21.ai/)** | No-code transaction monitoring and case management platform. | ~$33,000/year estimated minimum | Demo access only (no free trial) |
+| **[Hawk AI](https://hawk.ai/)** | AI-powered transaction monitoring and AML platform. | ~$30,000/year estimated minimum | Demo access only (no free trial) |
+| **[Crystal (Bitfury)](https://crystalblockchain.com/)** | Blockchain analytics and compliance provider. | ~$20,000/year estimated minimum | Free for academic institutions only |
+| **[Scorechain](https://www.scorechain.com/)** | Blockchain analytics and compliance provider. | ~$500/mo estimated minimum | Free Sanctions API (100 req/hr) & 5 free AI reports |
+| **[Merkle Science](https://www.merklescience.com/)** | Blockchain analytics and compliance provider. | ~$20,000/year estimated minimum | Demo access only (no free trial) |
 
 
 

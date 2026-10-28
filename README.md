@@ -47,6 +47,7 @@ Contributions welcome! Open a PR to add/update entries. Keep descriptions factua
 | **[Merkle Science](https://www.merklescience.com/)** | Blockchain analytics and compliance provider. | ~$20,000/year estimated minimum | Demo access only (no free trial) | ~$100M Valuation |
 | **[Notabene](https://notabene.id/)** | Specialized Travel Rule compliance platform for VASP data exchange. | Sunrise plan starts at $0/mo | Free forever up to $10,000 USD outgoing monthly | ~$50M Valuation |
 | **[Scorechain](https://www.scorechain.com/)** | Blockchain analytics and compliance provider. | ~$500/mo estimated minimum | Free Sanctions API (100 req/hr) & 5 free AI reports | ~$15M Valuation |
+| **[FreezeRadar](https://freezeradar.com/)** | Wallet screening for freezeable stablecoins: checks addresses for USDT/USDC/PAXG/XAUt issuer blacklist (freeze) status and sanctions exposure, with a live freeze/release feed. | Pro from $4.9/mo | Free public address checks | Early-stage startup |
 
 
 ## 💻 Open-Source GitHub Projects
